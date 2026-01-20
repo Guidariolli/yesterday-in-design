@@ -1,32 +1,16 @@
-# Design News - Design System Base
+# React + Vite
 
-Este projeto entrega apenas a base do Design System:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- `styles/tokens.css`: cores, tipografia, spacing, radius, shadow e focus ring
-- `styles/atoms.css`: Button, Input, Card, Badge, IconButton e Text/Heading
+Currently, two official plugins are available:
 
-## Como usar
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-1) Inclua os tokens antes dos atomos:
+## React Compiler
 
-```
-<link rel="stylesheet" href="./styles/tokens.css" />
-<link rel="stylesheet" href="./styles/atoms.css" />
-```
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-2) Use as classes base:
+## Expanding the ESLint configuration
 
-- Texto: `text`, `text-sm`, `text-xs`
-- Titulos: `heading-1`, `heading-2`, `heading-3`, `heading-4`
-- Botao: `btn primary` ou `btn ghost`
-- Input: `input` envolvendo `input` ou `textarea`
-- Card: `card`
-- Badge: `badge`
-- IconButton: `icon-btn`
-- Link: `link`
-
-## Acessibilidade minima
-
-- Focus visivel em botoes, inputs, icon buttons e links
-- Estados hover e disabled definidos
-- Contraste adequado entre texto e fundo nos componentes base
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

@@ -25,9 +25,9 @@
   --color-accent-soft: rgba(80, 220, 180, 0.22);
   --color-accent-glow: rgba(80, 220, 180, 0.14);
 
-  --border-outer: rgba(255, 255, 255, 0.12);
-  --border-inner: rgba(255, 255, 255, 0.1);
-  --border-highlight: rgba(255, 255, 255, 0.18);
+  --border-outer: rgba(255, 255, 255, 0.2);
+  --border-inner: rgba(255, 255, 255, 0.12);
+  --border-highlight: rgba(255, 255, 255, 0.22);
   --border-divider: rgba(255, 255, 255, 0.06);
 
   --shadow-soft: 0 20px 60px rgba(0, 0, 0, 0.55);
@@ -50,6 +50,7 @@
 
   --font-sans: "Inter", "SF Pro Display", system-ui, "Segoe UI", "Roboto",
     "Helvetica", "Arial", sans-serif;
+  --font-serif: "Playfair Display", "Times New Roman", serif;
   --font-size-xs: 0.75rem;
   --font-size-sm: 0.875rem;
   --font-size-md: 1rem;

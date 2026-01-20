@@ -1,0 +1,19 @@
+[
+  { "name": "Smashing Magazine", "url": "https://www.smashingmagazine.com/feed/" },
+  { "name": "Nielsen Norman Group", "url": "https://www.nngroup.com/feed/rss/" },
+  { "name": "A List Apart", "url": "https://alistapart.com/main/feed/" },
+  { "name": "UX Collective", "url": "https://uxdesign.cc/feed" },
+  { "name": "Webdesigner Depot", "url": "https://www.webdesignerdepot.com/feed/" },
+
+  { "name": "UX Booth", "url": "https://www.uxbooth.com/feed/" },
+  { "name": "UX Movement", "url": "https://uxmovement.com/feed/" },
+  { "name": "UX Planet", "url": "https://uxplanet.org/feed" },
+  { "name": "UX Magazine", "url": "https://uxmag.com/rss.xml" },
+
+  { "name": "CSS-Tricks", "url": "https://css-tricks.com/feed/" },
+  { "name": "Sidebar", "url": "https://sidebar.io/feed.xml" },
+  { "name": "Frontend Focus", "url": "https://frontendfoc.us/rss" },
+
+  { "name": "Product Coalition", "url": "https://productcoalition.com/feed" },
+  { "name": "Mind the Product", "url": "https://www.mindtheproduct.com/feed/" }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "name": "Smashing Magazine",
+    "items": []
+  },
+  {
+    "name": "Nielsen Norman Group",
+    "items": []
+  },
+  {
+    "name": "A List Apart",
+    "items": []
+  },
+  {
+    "name": "UX Collective",
+    "items": [
+      {
+        "id": "ux-collective-designers-as-orchestrators-uncertain-ai-designing-with-cursor-how-ux-impacts-p-l-2026-01-19",
+        "title": "Designers as orchestrators, uncertain AI, designing with Cursor, how UX impacts P&L",
+        "source": "UX Collective",
+        "publishedAt": "2026-01-19",
+        "url": "https://uxdesign.cc/designers-as-orchestrators-uncertain-ai-designing-with-cursor-how-ux-impacts-p-l-557ef6c89e62?source=rss----138adf9c44c---4",
+        "excerpt": "",
+        "tags": [
+          "ux",
+          "startup",
+          "artificial-intelligence",
+          "design",
+          "product-design"
+        ]
+      },
+      {
+        "id": "ux-collective-design-tokens-with-confidence-2026-01-19",
+        "title": "Design tokens with confidence",
+        "source": "UX Collective",
+        "publishedAt": "2026-01-19",
+        "url": "https://uxdesign.cc/design-tokens-with-confidence-862119eb819b?source=rss----138adf9c44c---4",
+        "excerpt": "Why the W3C design token standard is your new foundation. Continue reading on UX Collective »",
+        "tags": [
+          "product-development",
+          "design-systems",
+          "product-design",
+          "token-design",
+          "ux"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Webdesigner Depot",
+    "items": [
+      {
+        "id": "webdesigner-depot-what-figma-got-wrong-about-design-systems-2026-01-19",
+        "title": "What Figma Got Wrong About Design Systems",
+        "source": "Webdesigner Depot",
+        "publishedAt": "2026-01-19",
+        "url": "https://webdesignerdepot.com/what-figma-got-wrong-about-design-systems/",
+        "excerpt": "Figma sold us the dream of perfect consistency — but what we got was 'design by spreadsheet'. See how design systems turned from creative tools into corporate control mechanisms. From token fatigue to system bloat to the",
+        "tags": [
+          "development",
+          "design",
+          "ai creativity",
+          "ai design",
+          "art direction",
+          "artificial intelligence"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UX Booth",
+    "items": [],
+    "error": "fetch failed"
+  },
+  {
+    "name": "UX Movement",
+    "items": []
+  },
+  {
+    "name": "UX Planet",
+    "items": [
+      {
+        "id": "ux-planet-ui-style-exploration-with-nano-banana-pro-2026-01-19",
+        "title": "UI Style Exploration with Nano Banana Pro",
+        "source": "UX Planet",
+        "publishedAt": "2026-01-19",
+        "url": "https://uxplanet.org/ui-style-exploration-with-nano-banana-pro-5fd726705ea3?source=rss----819cc2aaeee0---4",
+        "excerpt": "7 Ready-to-use prompts based on legendary operating systems Continue reading on UX Planet »",
+        "tags": [
+          "ui",
+          "design",
+          "ui-design",
+          "ai",
+          "artificial-intelligence"
+        ]
+      },
+      {
+        "id": "ux-planet-figma-make-top-3-limitations-how-to-overcome-them-2026-01-19",
+        "title": "Figma Make: Top 3 limitations & how to overcome them",
+        "source": "UX Planet",
+        "publishedAt": "2026-01-19",
+        "url": "https://uxplanet.org/figma-make-top-3-limitations-how-to-overcome-them-782991f7c399?source=rss----819cc2aaeee0---4",
+        "excerpt": "Figma Make is not a new tool. It&#x2019;s been in design space for a while. Although almost everyone in product space had a chance to play with&#x2026; Continue reading on UX Planet »",
+        "tags": [
+          "figma",
+          "ux",
+          "ui",
+          "design",
+          "artificial-intelligence"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UX Magazine",
+    "items": [],
+    "error": 404
+  },
+  {
+    "name": "CSS-Tricks",
+    "items": []
+  },
+  {
+    "name": "Sidebar",
+    "items": [
+      {
+        "id": "sidebar-widgetsmith-is-hiring-a-senior-designer-2026-01-19",
+        "title": "Widgetsmith is hiring a Senior Designer",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-19",
+        "url": "https://bit.ly/side-wid1",
+        "excerpt": "Help us create new widget designs, themes, and aesthetic options for our millions of users. You’ll help them make their phone their own.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-using-ai-as-a-design-engineer-2026-01-19",
+        "title": "Using AI as a Design Engineer",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-19",
+        "url": "https://jakub.kr/work/using-ai-as-a-design-engineer",
+        "excerpt": "Design engineers, a role that's all about craft, thoughtfulness and creativity, should be skeptical of AI. But here's the other side.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-heart-shaped-books-2026-01-19",
+        "title": "Heart-shaped books",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-19",
+        "url": "https://ilovetypography.com/2026/01/05/heart-shaped-books/",
+        "excerpt": "Heart-shaped books transformed the printed page into a profound symbol of piety and romance.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-10-breakthrough-technologies-2026-2026-01-19",
+        "title": "10 breakthrough technologies 2026",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-19",
+        "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+        "excerpt": "Here are our picks for the advances to watch in the years ahead—and why we think they matter right now.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-times-new-american-a-tale-of-two-fonts-2026-01-19",
+        "title": "Times New American: a tale of two fonts",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-19",
+        "url": "https://hsu.cy/2025/12/times-new-american/",
+        "excerpt": "A less romantic truth is that aesthetic standards rarely travel alone; power tends to follow in their wake.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "name": "Frontend Focus",
+    "items": []
+  },
+  {
+    "name": "Product Coalition",
+    "items": []
+  },
+  {
+    "name": "Mind the Product",
+    "items": []
+  }
+]

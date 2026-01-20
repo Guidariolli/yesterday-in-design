@@ -8,16 +8,7 @@ body {
   margin: 0;
   font-family: var(--font-sans);
   color: var(--color-stone-700);
-  background: radial-gradient(
-      circle at 20% 10%,
-      rgba(255, 255, 255, 0.04),
-      transparent 40%
-    ),
-    linear-gradient(
-      180deg,
-      var(--color-stone-100),
-      var(--color-surface-muted)
-    );
+  background: var(--color-surface-muted);
 }
 
 /* Text */
@@ -44,6 +35,7 @@ body {
   color: var(--color-stone-700);
   line-height: var(--line-height-tight);
   font-weight: 600;
+  font-family: var(--font-serif);
 }
 
 .heading-1 {
