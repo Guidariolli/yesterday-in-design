@@ -2,11 +2,217 @@
   "date": "2026-01-19",
   "summary": {
     "title": "Resumo do dia em Design",
-    "text": "Nao houve artigos relevantes publicados ontem."
+    "text": "O dia trouxe atualizacoes relevantes em design, UX e produto. As principais fontes foram Smashing Magazine, UX Collective, Webdesigner Depot. Este resumo sera aprimorado no pipeline diario."
   },
   "stats": {
-    "totalArticles": 0,
-    "sources": 0
+    "totalArticles": 18,
+    "sources": 5
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "smashing-magazine-rethinking-pixel-perfect-web-design-2026-01-20",
+      "title": "Rethinking “Pixel Perfect” Web Design",
+      "source": "Smashing Magazine",
+      "publishedAt": "2026-01-20",
+      "url": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+      "excerpt": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
+      "tags": []
+    },
+    {
+      "id": "ux-collective-how-a-2-500-year-old-story-explains-why-ux-findings-get-ignored-2026-01-20",
+      "title": "How a 2,500-year-old story explains why UX findings get ignored",
+      "source": "UX Collective",
+      "publishedAt": "2026-01-20",
+      "url": "https://uxdesign.cc/how-a-2-500-year-old-story-explains-why-ux-findings-get-ignored-6a62451c302d?source=rss----138adf9c44c---4",
+      "excerpt": "Design&#x2019;s longest struggle has been around for 55+ years Continue reading on UX Collective »",
+      "tags": [
+        "ux-research",
+        "design",
+        "ux-design",
+        "ux",
+        "product-design"
+      ]
+    },
+    {
+      "id": "ux-collective-against-cleverness-2026-01-20",
+      "title": "Against cleverness",
+      "source": "UX Collective",
+      "publishedAt": "2026-01-20",
+      "url": "https://uxdesign.cc/against-cleverness-cc6733aedcfa?source=rss----138adf9c44c---4",
+      "excerpt": "",
+      "tags": [
+        "ai",
+        "ux",
+        "philosophy",
+        "systems-thinking",
+        "design"
+      ]
+    },
+    {
+      "id": "ux-collective-designers-as-orchestrators-uncertain-ai-designing-with-cursor-how-ux-impacts-p-l-2026-01-19",
+      "title": "Designers as orchestrators, uncertain AI, designing with Cursor, how UX impacts P&L",
+      "source": "UX Collective",
+      "publishedAt": "2026-01-19",
+      "url": "https://uxdesign.cc/designers-as-orchestrators-uncertain-ai-designing-with-cursor-how-ux-impacts-p-l-557ef6c89e62?source=rss----138adf9c44c---4",
+      "excerpt": "",
+      "tags": [
+        "ux",
+        "startup",
+        "artificial-intelligence",
+        "design",
+        "product-design"
+      ]
+    },
+    {
+      "id": "ux-collective-design-tokens-with-confidence-2026-01-19",
+      "title": "Design tokens with confidence",
+      "source": "UX Collective",
+      "publishedAt": "2026-01-19",
+      "url": "https://uxdesign.cc/design-tokens-with-confidence-862119eb819b?source=rss----138adf9c44c---4",
+      "excerpt": "Why the W3C design token standard is your new foundation. Continue reading on UX Collective »",
+      "tags": [
+        "product-development",
+        "design-systems",
+        "product-design",
+        "token-design",
+        "ux"
+      ]
+    },
+    {
+      "id": "webdesigner-depot-what-figma-got-wrong-about-design-systems-2026-01-19",
+      "title": "What Figma Got Wrong About Design Systems",
+      "source": "Webdesigner Depot",
+      "publishedAt": "2026-01-19",
+      "url": "https://webdesignerdepot.com/what-figma-got-wrong-about-design-systems/",
+      "excerpt": "Figma sold us the dream of perfect consistency — but what we got was 'design by spreadsheet'. See how design systems turned from creative tools into corporate control mechanisms. From token fatigue to system bloat to the",
+      "tags": [
+        "development",
+        "design",
+        "ai creativity",
+        "ai design",
+        "art direction",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "id": "ux-planet-ui-style-exploration-with-nano-banana-pro-2026-01-19",
+      "title": "UI Style Exploration with Nano Banana Pro",
+      "source": "UX Planet",
+      "publishedAt": "2026-01-19",
+      "url": "https://uxplanet.org/ui-style-exploration-with-nano-banana-pro-5fd726705ea3?source=rss----819cc2aaeee0---4",
+      "excerpt": "7 Ready-to-use prompts based on legendary operating systems Continue reading on UX Planet »",
+      "tags": [
+        "ui",
+        "design",
+        "ui-design",
+        "ai",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "id": "ux-planet-figma-make-top-3-limitations-how-to-overcome-them-2026-01-19",
+      "title": "Figma Make: Top 3 limitations & how to overcome them",
+      "source": "UX Planet",
+      "publishedAt": "2026-01-19",
+      "url": "https://uxplanet.org/figma-make-top-3-limitations-how-to-overcome-them-782991f7c399?source=rss----819cc2aaeee0---4",
+      "excerpt": "Figma Make is not a new tool. It&#x2019;s been in design space for a while. Although almost everyone in product space had a chance to play with&#x2026; Continue reading on UX Planet »",
+      "tags": [
+        "figma",
+        "ux",
+        "ui",
+        "design",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "id": "sidebar-cold-storage-2026-01-20",
+      "title": "Cold storage",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-20",
+      "url": "https://zeldman.com/2026/01/02/cold-storage/",
+      "excerpt": "Good UX is what companies do when they have to. A company that has your stuff locked away doesn’t have to.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-anacyclosis-the-cycle-of-political-revolution-2026-01-20",
+      "title": "Anacyclosis: the cycle of political revolution",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-20",
+      "url": "https://anacyclosis.info/",
+      "excerpt": "An interactive visualization of Polybius’s theory of anacyclosis—the cyclical succession of political regimes.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-creating-your-own-opportunities-2026-01-20",
+      "title": "Creating your own opportunities",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-20",
+      "url": "https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/",
+      "excerpt": "The best career opportunities don’t necessarily come from your manager. They come from seeing potential in the boring work already on your plate.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-i-want-my-mtv-2026-01-20",
+      "title": "I want my MTV",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-20",
+      "url": "https://wantmymtv.vercel.app/",
+      "excerpt": "Celebrating 44 years of continuous music videos. Stream classic music videos 24/7.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-usability-heuristics-and-competition-in-games-2026-01-20",
+      "title": "Usability heuristics and competition in games",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-20",
+      "url": "https://uxdesign.cc/usability-heuristics-and-competition-in-games-707cac36ff12",
+      "excerpt": "When a game’s UI does not meet these expectations, it negatively affects the entire experience. Сompetition drives progress (or burnout).",
+      "tags": []
+    },
+    {
+      "id": "sidebar-widgetsmith-is-hiring-a-senior-designer-2026-01-19",
+      "title": "Widgetsmith is hiring a Senior Designer",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-19",
+      "url": "https://bit.ly/side-wid1",
+      "excerpt": "Help us create new widget designs, themes, and aesthetic options for our millions of users. You’ll help them make their phone their own.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-using-ai-as-a-design-engineer-2026-01-19",
+      "title": "Using AI as a Design Engineer",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-19",
+      "url": "https://jakub.kr/work/using-ai-as-a-design-engineer",
+      "excerpt": "Design engineers, a role that's all about craft, thoughtfulness and creativity, should be skeptical of AI. But here's the other side.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-heart-shaped-books-2026-01-19",
+      "title": "Heart-shaped books",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-19",
+      "url": "https://ilovetypography.com/2026/01/05/heart-shaped-books/",
+      "excerpt": "Heart-shaped books transformed the printed page into a profound symbol of piety and romance.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-10-breakthrough-technologies-2026-2026-01-19",
+      "title": "10 breakthrough technologies 2026",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-19",
+      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "excerpt": "Here are our picks for the advances to watch in the years ahead—and why we think they matter right now.",
+      "tags": []
+    },
+    {
+      "id": "sidebar-times-new-american-a-tale-of-two-fonts-2026-01-19",
+      "title": "Times New American: a tale of two fonts",
+      "source": "Sidebar",
+      "publishedAt": "2026-01-19",
+      "url": "https://hsu.cy/2025/12/times-new-american/",
+      "excerpt": "A less romantic truth is that aesthetic standards rarely travel alone; power tends to follow in their wake.",
+      "tags": []
+    }
+  ]
 }
