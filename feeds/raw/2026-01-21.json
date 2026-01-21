@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Smashing Magazine",
+    "items": [
+      {
+        "id": "smashing-magazine-rethinking-pixel-perfect-web-design-2026-01-20",
+        "title": "Rethinking “Pixel Perfect” Web Design",
+        "source": "Smashing Magazine",
+        "publishedAt": "2026-01-20",
+        "url": "https://smashingmagazine.com/2026/01/rethinking-pixel-perfect-web-design/",
+        "excerpt": "Amit Sheen takes a hard look at the “Pixel Perfect” legacy concept, explaining why it’s failing us and redefining what “perfection” actually looks like in a multi-device, fluid world.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "name": "Nielsen Norman Group",
+    "items": []
+  },
+  {
+    "name": "A List Apart",
+    "items": []
+  },
+  {
+    "name": "UX Collective",
+    "items": [
+      {
+        "id": "ux-collective-how-a-2-500-year-old-story-explains-why-ux-findings-get-ignored-2026-01-20",
+        "title": "How a 2,500-year-old story explains why UX findings get ignored",
+        "source": "UX Collective",
+        "publishedAt": "2026-01-20",
+        "url": "https://uxdesign.cc/how-a-2-500-year-old-story-explains-why-ux-findings-get-ignored-6a62451c302d?source=rss----138adf9c44c---4",
+        "excerpt": "Design&#x2019;s longest struggle has been around for 55+ years Continue reading on UX Collective »",
+        "tags": [
+          "ux-research",
+          "design",
+          "ux-design",
+          "ux",
+          "product-design"
+        ]
+      },
+      {
+        "id": "ux-collective-against-cleverness-2026-01-20",
+        "title": "Against cleverness",
+        "source": "UX Collective",
+        "publishedAt": "2026-01-20",
+        "url": "https://uxdesign.cc/against-cleverness-cc6733aedcfa?source=rss----138adf9c44c---4",
+        "excerpt": "",
+        "tags": [
+          "ai",
+          "ux",
+          "philosophy",
+          "systems-thinking",
+          "design"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Webdesigner Depot",
+    "items": []
+  },
+  {
+    "name": "UX Booth",
+    "items": [],
+    "error": "fetch failed"
+  },
+  {
+    "name": "UX Movement",
+    "items": []
+  },
+  {
+    "name": "UX Planet",
+    "items": []
+  },
+  {
+    "name": "UX Magazine",
+    "items": [],
+    "error": 404
+  },
+  {
+    "name": "CSS-Tricks",
+    "items": []
+  },
+  {
+    "name": "Sidebar",
+    "items": [
+      {
+        "id": "sidebar-cold-storage-2026-01-20",
+        "title": "Cold storage",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-20",
+        "url": "https://zeldman.com/2026/01/02/cold-storage/",
+        "excerpt": "Good UX is what companies do when they have to. A company that has your stuff locked away doesn’t have to.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-anacyclosis-the-cycle-of-political-revolution-2026-01-20",
+        "title": "Anacyclosis: the cycle of political revolution",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-20",
+        "url": "https://anacyclosis.info/",
+        "excerpt": "An interactive visualization of Polybius’s theory of anacyclosis—the cyclical succession of political regimes.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-creating-your-own-opportunities-2026-01-20",
+        "title": "Creating your own opportunities",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-20",
+        "url": "https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/",
+        "excerpt": "The best career opportunities don’t necessarily come from your manager. They come from seeing potential in the boring work already on your plate.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-i-want-my-mtv-2026-01-20",
+        "title": "I want my MTV",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-20",
+        "url": "https://wantmymtv.vercel.app/",
+        "excerpt": "Celebrating 44 years of continuous music videos. Stream classic music videos 24/7.",
+        "tags": []
+      },
+      {
+        "id": "sidebar-usability-heuristics-and-competition-in-games-2026-01-20",
+        "title": "Usability heuristics and competition in games",
+        "source": "Sidebar",
+        "publishedAt": "2026-01-20",
+        "url": "https://uxdesign.cc/usability-heuristics-and-competition-in-games-707cac36ff12",
+        "excerpt": "When a game’s UI does not meet these expectations, it negatively affects the entire experience. Сompetition drives progress (or burnout).",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "name": "Frontend Focus",
+    "items": []
+  },
+  {
+    "name": "Product Coalition",
+    "items": []
+  },
+  {
+    "name": "Mind the Product",
+    "items": []
+  }
+]
